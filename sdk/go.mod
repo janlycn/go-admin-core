@@ -1,4 +1,4 @@
-module github.com/go-admin-team/go-admin-core/sdk
+module github.com/janlycn/go-admin-core/sdk
 
 go 1.14
 
@@ -9,8 +9,8 @@ require (
 	github.com/chanxuehong/wechat v0.0.0-20201110083048-0180211b69fd
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/gin-gonic/gin v1.6.3
-	github.com/go-admin-team/go-admin-core v1.3.5-rc.0
-	github.com/go-admin-team/go-admin-core/plugins/logger/zap v1.3.0
+	github.com/janlycn/go-admin-core v1.3.5-hotfix
+	github.com/janlycn/go-admin-core/plugins/logger/zap v1.3.0
 	github.com/go-redis/redis/v7 v7.4.0
 	github.com/google/uuid v1.1.2
 	github.com/gorilla/websocket v1.4.2

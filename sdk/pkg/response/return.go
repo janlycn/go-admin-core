@@ -5,7 +5,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"github.com/go-admin-team/go-admin-core/sdk/pkg"
+	"github.com/janlycn/go-admin-core/sdk/pkg"
 )
 
 // Error 失败数据处理

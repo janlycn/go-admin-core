@@ -4,11 +4,11 @@ import (
 	"errors"
 	"time"
 
-	"github.com/go-admin-team/go-admin-core/config/encoder"
-	"github.com/go-admin-team/go-admin-core/config/encoder/json"
-	"github.com/go-admin-team/go-admin-core/config/reader"
-	"github.com/go-admin-team/go-admin-core/config/source"
 	"github.com/imdario/mergo"
+	"github.com/janlycn/go-admin-core/config/encoder"
+	"github.com/janlycn/go-admin-core/config/encoder/json"
+	"github.com/janlycn/go-admin-core/config/reader"
+	"github.com/janlycn/go-admin-core/config/source"
 )
 
 type jsonReader struct {

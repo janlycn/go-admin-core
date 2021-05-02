@@ -3,7 +3,7 @@ package logger
 import (
 	"os"
 
-	"github.com/go-admin-team/go-admin-core/logger"
+	"github.com/janlycn/go-admin-core/logger"
 )
 
 // Logger 通用log个性化实现
